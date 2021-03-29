@@ -19,3 +19,9 @@
 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | [C++](./C++/linkedlist-flatten-multilevel-doubly-linked-list.cpp) | Medium |
 | [Rotate List](https://leetcode.com/problems/rotate-list) | [C++](./C++/linkedlist-rotate-list.cpp) | Medium |
 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C++](./C++/linkedlist-copy-list-with-random-pointer.cpp) | Medium |
+
+## Trees
+
+| Title | Solution | Difficulty |
+| --- | --- | --- |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./C++/trees-maximum-depth-of-binary-tree.cpp) | Easy |
