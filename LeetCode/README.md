@@ -20,7 +20,7 @@
 | [Rotate List](https://leetcode.com/problems/rotate-list) | [C++](./C++/linkedlist-rotate-list.cpp) | Medium |
 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [C++](./C++/linkedlist-copy-list-with-random-pointer.cpp) | Medium |
 
-## Trees
+## [Trees](https://leetcode.com/explore/learn/card/data-structure-tree/)
 
 | Title | Solution | Difficulty |
 | --- | --- | --- |
