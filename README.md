@@ -4,4 +4,4 @@
 * Currently, only LeetCode problems are added but I plan to start including others, like HackerRank and CodeWars problems, as well.
 * Always happy and looking forward to receive suggestions on improving my solutions!
 
-## (LeetCode)[./LeetCode]
+## [LeetCode](./LeetCode)
