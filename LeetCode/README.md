@@ -1,5 +1,9 @@
 # [LeetCode Problems](https://leetcode.com/problemset/all/)
 
+## Categories
+* [Linked List](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#linked-list)
+* [Trees](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#trees)
+
 ## [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 
 | Title | Solution | Difficulty |
