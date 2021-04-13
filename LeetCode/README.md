@@ -32,3 +32,4 @@
 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/trees-symmetric-tree.cpp) | Easy |
 | [Path Sum](https://leetcode.com/problems/path-sum) | [C++](./C++/trees-path-sum.cpp) | Easy |
 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-inorder-and-postorder-traversal.cpp) | Medium |
+| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) | Medium |
