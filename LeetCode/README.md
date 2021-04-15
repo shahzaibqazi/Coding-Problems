@@ -35,3 +35,4 @@
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) | Medium |
 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [C++](./C++/trees-populating-next-right-pointers-in-each-node.cpp) | Medium |
 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [C++](./C++/trees-populating-next-right-pointers-in-each-node-ii.cpp) | Medium |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./C++/trees-lowest-common-ancestor-of-a-binary-tree.cpp) | Medium |
