@@ -8,8 +8,8 @@
 
 | Title | Solution | Difficulty |
 | --- | --- | --- |
-| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](./C++/linkedlist-design.cpp), [Python](./Python/linkedlist-design.cpp) | Medium |
-| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./C++/linkedlist-cycle.cpp) | Easy |
+| [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [C++](./C++/linkedlist-design.cpp), [Python](./Python/linkedlist-design.py) | Medium |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./C++/linkedlist-cycle.cpp), [Python](./Python/linkedlist-cycle.py) | Easy |
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./C++/linkedlist-cycle-ii.cpp) | Medium |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/linkedlist-intersection-of-two-linked-lists.cpp) | Easy |
 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/linkedlist-remove-nth-node.cpp) | Medium |
