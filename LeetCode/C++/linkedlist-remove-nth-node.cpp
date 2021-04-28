@@ -10,45 +10,21 @@
  */
 class Solution {
 public:
-    /** Returns number of nodes in the linked list*/
-    int getListLength(ListNode *head) {
-        int len = 0;
-        ListNode *ptr = head;
-        
-        while (ptr) {
-            len++;
-            ptr = ptr->next;
-        }
-        return len;
-    }
-    
-    /** Delete the index-th node in the linked list, if the index is valid, and returns head*/
-    ListNode* deleteAtIndex(ListNode *head, int index) {
-        if (head) {            
-            if (index == 0) {
-                head = head->next;
-                return head;
-            }
-            if (head->next){
-                ListNode *cur = head;
-                int i;
-                for (i=0; i < index-1; i++){
-                    cur = cur->next;
-                    if(!cur->next){
-                        return head;
-                    }
-                }
-                cur->next = cur->next->next;
-                return head;
-            }
-        }
-        return head;
-    }
-    
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        if (head) {
-            head = deleteAtIndex(head, getListLength(head)-n);
+        ListNode *temp = new ListNode(0, head);
+        ListNode *ptr1 = temp, *ptr2 = temp;
+        
+        for (int i=0; i < n; ++i) {
+            ptr1 = ptr1->next;
         }
-        return head;
+        
+        while (ptr1->next) {
+            ptr1 = ptr1->next;
+            ptr2 = ptr2->next;
+        }
+        
+        ptr2->next = ptr2->next->next;
+        
+        return temp->next;
     }
 };
