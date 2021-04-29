@@ -14,7 +14,7 @@
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/linkedlist-intersection-of-two-linked-lists.cpp), [Python](./Python/linkedlist-intersection-of-two-linked-lists.py) | Easy |
 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/linkedlist-remove-nth-node.cpp), [Python](./Python/linkedlist-remove-nth-node-from-end-of-list.py) | Medium |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./C++/linkedlist-reverse.cpp), [Python](./Python/linkedlist-reverse-linked-list.py) | Easy |
-| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/linkedlist-remove-elements.cpp) | Easy |
+| [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/linkedlist-remove-elements.cpp), [Python](./Python/linked-list-remove-linked-list-elements.py) | Easy |
 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/linkedlist-odd-even.cpp) | Medium |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/linkedlist-palindrome.cpp) | Easy |
 | [Design Doubly Linked List](https://leetcode.com/problems/design-linked-list) | [C++](./C++/linkedlist-design-doubly.cpp) | Medium |
