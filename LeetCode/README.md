@@ -13,7 +13,7 @@
 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [C++](./C++/linkedlist-cycle-ii.cpp), [Python](./Python/linkedlist-cycle-ii.py) | Medium |
 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [C++](./C++/linkedlist-intersection-of-two-linked-lists.cpp), [Python](./Python/linkedlist-intersection-of-two-linked-lists.py) | Easy |
 | [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/linkedlist-remove-nth-node.cpp), [Python](./Python/linkedlist-remove-nth-node-from-end-of-list.py) | Medium |
-| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./C++/linkedlist-reverse.cpp) | Easy |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./C++/linkedlist-reverse.cpp), [Python](./Python/linkedlist-reverse-linked-list.py) | Easy |
 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | [C++](./C++/linkedlist-remove-elements.cpp) | Easy |
 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [C++](./C++/linkedlist-odd-even.cpp) | Medium |
 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [C++](./C++/linkedlist-palindrome.cpp) | Easy |
