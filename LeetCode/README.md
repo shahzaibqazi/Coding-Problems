@@ -33,7 +33,7 @@
 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [C++](./C++/trees-binary-tree-postorder-traversal.cpp), [Python](./Python/trees-binary-tree-postorder-traversal.py) | Medium |
 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/trees-binary-tree-level-order-traversal.cpp), [Python](./Python/trees-binary-tree-level-order-traversal.py) | Medium |
 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./C++/trees-maximum-depth-of-binary-tree.cpp), [Python](./Python/trees-maximum-depth-of-binary-tree.py) | Easy |
-| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/trees-symmetric-tree.cpp) | Easy |
+| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [C++](./C++/trees-symmetric-tree.cpp), [Python](./Python/trees-symmetric-tree.py) | Easy |
 | [Path Sum](https://leetcode.com/problems/path-sum) | [C++](./C++/trees-path-sum.cpp) | Easy |
 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-inorder-and-postorder-traversal.cpp) | Medium |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-preorder-and-inorder-traversal.cpp) | Medium |
