@@ -3,6 +3,14 @@
 ## Categories
 * [Linked List](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#linked-list)
 * [Trees](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#trees)
+* [Array](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#array)
+
+## Problems Lists
+* [Blind 75](https://github.com/shahzaibqazi/Coding-Problems/tree/main/LeetCode#blind-75)
+* [Grind 169](https://leetcode.com/problem-list/rabvlt31/)
+* [Grind 75](https://leetcode.com/problem-list/rab78cw1/)
+* [Neetcode 150](https://leetcode.com/list/rr2ss0g5)
+* [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/)
 
 ## [Linked List](https://leetcode.com/explore/learn/card/linked-list/)
 
@@ -40,3 +48,22 @@
 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [C++](./C++/trees-populating-next-right-pointers-in-each-node.cpp) | Medium |
 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [C++](./C++/trees-populating-next-right-pointers-in-each-node-ii.cpp) | Medium |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [C++](./C++/trees-lowest-common-ancestor-of-a-binary-tree.cpp) | Medium |
+
+## [Array](https://leetcode.com/tag/array/)
+
+| Title | Solution | Difficulty |
+| --- | --- | --- |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./Python/array-longest-consecutive-sum.py) | Medium |
+
+## [Blind 75](https://leetcode.com/problem-list/oizxjoit/)
+
+| Title | Solution | Difficulty |
+| --- | --- | --- |
+| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./Python/array-longest-consecutive-sum.py) | Medium |
+| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./C++/linkedlist-cycle.cpp), [Python](./Python/linkedlist-cycle.py) | Easy |
+| [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [C++](./C++/linkedlist-remove-nth-node.cpp), [Python](./Python/linkedlist-remove-nth-node-from-end-of-list.py) | Medium |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [C++](./C++/linkedlist-merge-two-sorted-lists.cpp) | Easy |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [C++](./C++/linkedlist-reverse.cpp), [Python](./Python/linkedlist-reverse-linked-list.py) | Easy |
+| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [C++](./C++/trees-binary-tree-level-order-traversal.cpp), [Python](./Python/trees-binary-tree-level-order-traversal.py) | Medium |
+| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./C++/trees-maximum-depth-of-binary-tree.cpp), [Python](./Python/trees-maximum-depth-of-binary-tree.py) | Easy |
+| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [C++](./C++/trees-construct-binary-tree-from-inorder-and-postorder-traversal.cpp), [Python](./Python/trees-construct-binary-tree-from-inorder-and-postorder-traversal.py) | Medium |
